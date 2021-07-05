@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/bolum_1.unity
+    guid: db6c1480f1f8d404babc3e510f7ff767
+  - enabled: 1
+    path: Assets/Scenes/tebrik.unity
+    guid: 3b025513212de724da45bc35542bd64f
+  - enabled: 1
+    path: Assets/Scenes/menu.unity
+    guid: 9ba97d61843ad764992a76ecd483c46e
+  - enabled: 1
+    path: Assets/Scenes/son.unity
+    guid: f41988aed6a0d9e4fbcb83801e4e579a
+  m_configObjects: {}
